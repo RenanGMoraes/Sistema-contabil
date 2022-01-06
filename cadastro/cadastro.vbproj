@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DE59FC91-1636-46BF-96B2-CD35946BB31E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>cadastro.My.MyApplication</StartupObject>
+    <RootNamespace>cadastro</RootNamespace>
+    <AssemblyName>cadastro</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>cadastro.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>cadastro.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cadastro.Designer.vb">
+      <DependentUpon>cadastro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cadastro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ativos.Designer.vb">
+      <DependentUpon>ativos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ativos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastroacrescimo.Designer.vb">
+      <DependentUpon>cadastroacrescimo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cadastroacrescimo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="baixabens.Designer.vb">
+      <DependentUpon>baixabens.vb</DependentUpon>
+    </Compile>
+    <Compile Include="baixabens.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transferencia.Designer.vb">
+      <DependentUpon>transferencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transferencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="movimentacaobem.Designer.vb">
+      <DependentUpon>movimentacaobem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="movimentacaobem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="movimentos.Designer.vb">
+      <DependentUpon>movimentos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="movimentos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_clientes.Designer.vb">
+      <DependentUpon>frm_clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="baixabens.resx">
+      <DependentUpon>baixabens.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastro.resx">
+      <DependentUpon>cadastro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ativos.resx">
+      <DependentUpon>ativos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastroacrescimo.resx">
+      <DependentUpon>cadastroacrescimo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transferencia.resx">
+      <DependentUpon>transferencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="movimentacaobem.resx">
+      <DependentUpon>movimentacaobem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_clientes.resx">
+      <DependentUpon>frm_clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="movimentos.resx">
+      <DependentUpon>movimentos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{2A75196C-D9EB-4129-B803-931327F72D5C}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

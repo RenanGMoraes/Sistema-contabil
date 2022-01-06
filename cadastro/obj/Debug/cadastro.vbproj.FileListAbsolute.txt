@@ -1,0 +1,542 @@
+C:\Users\aluno\Desktop\cadastro\bin\Debug\cadastro.exe.config
+C:\Users\aluno\Desktop\cadastro\bin\Debug\cadastro.exe
+C:\Users\aluno\Desktop\cadastro\bin\Debug\cadastro.pdb
+C:\Users\aluno\Desktop\cadastro\bin\Debug\cadastro.xml
+C:\Users\aluno\Desktop\cadastro\obj\Debug\cadastro.Form1.resources
+C:\Users\aluno\Desktop\cadastro\obj\Debug\cadastro.frm_clientes.resources
+C:\Users\aluno\Desktop\cadastro\obj\Debug\cadastro.Resources.resources
+C:\Users\aluno\Desktop\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\cadastro\obj\Debug\cadastro.exe
+C:\Users\aluno\Desktop\cadastro\obj\Debug\cadastro.xml
+C:\Users\aluno\Desktop\cadastro\obj\Debug\cadastro.pdb
+C:\Users\aluno\Desktop\cadastro\obj\Debug\cadastro.frm_nova_conta.resources
+D:\cadastro\bin\Debug\cadastro.exe.config
+D:\cadastro\obj\Debug\cadastro.exe
+D:\cadastro\obj\Debug\cadastro.xml
+D:\cadastro\obj\Debug\cadastro.pdb
+D:\cadastro\bin\Debug\cadastro.exe
+D:\cadastro\bin\Debug\cadastro.pdb
+D:\cadastro\bin\Debug\cadastro.xml
+D:\cadastro\obj\Debug\cadastro.Form1.resources
+D:\cadastro\obj\Debug\cadastro.frm_nova_conta.resources
+D:\cadastro\obj\Debug\cadastro.Resources.resources
+D:\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.Cache
+D:\cadastro\obj\Debug\Interop.ADODB.dll
+D:\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+D:\cadastro\obj\Debug\cadastro.frm_clientes.resources
+E:\cadastro\bin\Debug\cadastro.exe.config
+E:\cadastro\bin\Debug\cadastro.exe
+E:\cadastro\bin\Debug\cadastro.pdb
+E:\cadastro\bin\Debug\cadastro.xml
+E:\cadastro\obj\Debug\cadastro.vbprojResolveAssemblyReference.cache
+E:\cadastro\obj\Debug\Interop.ADODB.dll
+E:\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+E:\cadastro\obj\Debug\cadastro.Form1.resources
+E:\cadastro\obj\Debug\cadastro.frm_clientes.resources
+E:\cadastro\obj\Debug\cadastro.frm_nova_conta.resources
+E:\cadastro\obj\Debug\cadastro.Resources.resources
+E:\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+E:\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+E:\cadastro\obj\Debug\cadastro.exe
+E:\cadastro\obj\Debug\cadastro.xml
+E:\cadastro\obj\Debug\cadastro.pdb
+F:\Nova pasta\cadastro\bin\Debug\cadastro.exe.config
+F:\Nova pasta\cadastro\bin\Debug\cadastro.exe
+F:\Nova pasta\cadastro\bin\Debug\cadastro.pdb
+F:\Nova pasta\cadastro\bin\Debug\cadastro.xml
+F:\Nova pasta\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+F:\Nova pasta\cadastro\obj\Debug\Interop.ADODB.dll
+F:\Nova pasta\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+F:\Nova pasta\cadastro\obj\Debug\cadastro.frm_clientes.resources
+F:\Nova pasta\cadastro\obj\Debug\cadastro.frm_nova_conta.resources
+F:\Nova pasta\cadastro\obj\Debug\cadastro.Resources.resources
+F:\Nova pasta\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+F:\Nova pasta\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+F:\Nova pasta\cadastro\obj\Debug\cadastro.exe
+F:\Nova pasta\cadastro\obj\Debug\cadastro.xml
+F:\Nova pasta\cadastro\obj\Debug\cadastro.pdb
+F:\Nova pasta\cadastro\obj\Debug\cadastro.Form2.resources
+F:\Nova pasta\cadastro\obj\Debug\cadastro.cadastro.resources
+F:\Nova pasta\cadastro\obj\Debug\cadastro.Form3.resources
+F:\Nova pasta\cadastro\obj\Debug\cadastro.Form4.resources
+F:\Nova pasta\cadastro\obj\Debug\cadastro.Form5.resources
+F:\Nova pasta\cadastro\obj\Debug\cadastro.Form6.resources
+F:\Nova pasta\cadastro\obj\Debug\cadastro.Form8.resources
+F:\Nova pasta\cadastro\obj\Debug\cadastro.form9.resources
+F:\Nova pasta\cadastro\obj\Debug\cadastro.Form10.resources
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\bin\Debug\cadastro.exe.config
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\bin\Debug\cadastro.exe
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\bin\Debug\cadastro.pdb
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\bin\Debug\cadastro.xml
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\Interop.ADODB.dll
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.Form8.resources
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.cadastro.resources
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.Form5.resources
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.Form6.resources
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.Form10.resources
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.form9.resources
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.Form4.resources
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.Form3.resources
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.frm_nova_conta.resources
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.Form2.resources
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.Resources.resources
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.exe
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.xml
+C:\Users\Renan\Documents\Nova pasta (12)\cadastro\obj\Debug\cadastro.pdb
+F:\Nova pasta (18)\cadastro\bin\Debug\cadastro.exe.config
+F:\Nova pasta (18)\cadastro\bin\Debug\cadastro.exe
+F:\Nova pasta (18)\cadastro\bin\Debug\cadastro.pdb
+F:\Nova pasta (18)\cadastro\bin\Debug\cadastro.xml
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+F:\Nova pasta (18)\cadastro\obj\Debug\Interop.ADODB.dll
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.Form8.resources
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.cadastro.resources
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.Form5.resources
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.Form6.resources
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.Form10.resources
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.Form11.resources
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.form9.resources
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.Form4.resources
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.Form3.resources
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.frm_nova_conta.resources
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.Form2.resources
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.Resources.resources
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.exe
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.xml
+F:\Nova pasta (18)\cadastro\obj\Debug\cadastro.pdb
+F:\Nova pasta (19)\cadastro\bin\Debug\cadastro.exe.config
+F:\Nova pasta (19)\cadastro\bin\Debug\cadastro.exe
+F:\Nova pasta (19)\cadastro\bin\Debug\cadastro.pdb
+F:\Nova pasta (19)\cadastro\bin\Debug\cadastro.xml
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+F:\Nova pasta (19)\cadastro\obj\Debug\Interop.ADODB.dll
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.Form8.resources
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.cadastro.resources
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.Form5.resources
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.Form6.resources
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.Form10.resources
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.Form11.resources
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.form9.resources
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.Form4.resources
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.Form3.resources
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.frm_nova_conta.resources
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.Form2.resources
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.Resources.resources
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.exe
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.xml
+F:\Nova pasta (19)\cadastro\obj\Debug\cadastro.pdb
+C:\Users\Renan\Downloads\GG\cadastro\bin\Debug\cadastro.exe.config
+C:\Users\Renan\Downloads\GG\cadastro\bin\Debug\cadastro.exe
+C:\Users\Renan\Downloads\GG\cadastro\bin\Debug\cadastro.pdb
+C:\Users\Renan\Downloads\GG\cadastro\bin\Debug\cadastro.xml
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\Interop.ADODB.dll
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.Form8.resources
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.cadastro.resources
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.Form5.resources
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.Form6.resources
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.Form10.resources
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.Form11.resources
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.form9.resources
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.Form4.resources
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.Form3.resources
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.frm_clientes.resources
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.frm_nova_conta.resources
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.Form2.resources
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.Resources.resources
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.exe
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.xml
+C:\Users\Renan\Downloads\GG\cadastro\obj\Debug\cadastro.pdb
+F:\Nova pasta (24)\cadastro\bin\Debug\cadastro.exe.config
+F:\Nova pasta (24)\cadastro\bin\Debug\cadastro.exe
+F:\Nova pasta (24)\cadastro\bin\Debug\cadastro.pdb
+F:\Nova pasta (24)\cadastro\bin\Debug\cadastro.xml
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+F:\Nova pasta (24)\cadastro\obj\Debug\Interop.ADODB.dll
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.Form8.resources
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.cadastro.resources
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.Form5.resources
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.Form6.resources
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.Form10.resources
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.Form11.resources
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.form9.resources
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.Form4.resources
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.Form3.resources
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.Form2.resources
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.Resources.resources
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.exe
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.xml
+F:\Nova pasta (24)\cadastro\obj\Debug\cadastro.pdb
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\bin\Debug\cadastro.exe.config
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\bin\Debug\cadastro.exe
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\bin\Debug\cadastro.pdb
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\bin\Debug\cadastro.xml
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\Interop.ADODB.dll
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form8.resources
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.cadastro.resources
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form5.resources
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form6.resources
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form10.resources
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form11.resources
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.form9.resources
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form4.resources
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form3.resources
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form2.resources
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.Resources.resources
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.exe
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.xml
+C:\Users\Renan\Downloads\Nova pasta (26)\cadastro\obj\Debug\cadastro.pdb
+F:\Nova pasta (27)\cadastro\bin\Debug\cadastro.exe.config
+F:\Nova pasta (27)\cadastro\bin\Debug\cadastro.exe
+F:\Nova pasta (27)\cadastro\bin\Debug\cadastro.pdb
+F:\Nova pasta (27)\cadastro\bin\Debug\cadastro.xml
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+F:\Nova pasta (27)\cadastro\obj\Debug\Interop.ADODB.dll
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.Form8.resources
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.cadastro.resources
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.Form5.resources
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.Form6.resources
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.Form10.resources
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.Form11.resources
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.form9.resources
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.Form4.resources
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.Form3.resources
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.Form2.resources
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.Resources.resources
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.exe
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.xml
+F:\Nova pasta (27)\cadastro\obj\Debug\cadastro.pdb
+F:\Nova pasta (28)\cadastro\bin\Debug\cadastro.exe.config
+F:\Nova pasta (28)\cadastro\bin\Debug\cadastro.exe
+F:\Nova pasta (28)\cadastro\bin\Debug\cadastro.pdb
+F:\Nova pasta (28)\cadastro\bin\Debug\cadastro.xml
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+F:\Nova pasta (28)\cadastro\obj\Debug\Interop.ADODB.dll
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.Form8.resources
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.cadastro.resources
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.Form5.resources
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.Form6.resources
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.Form10.resources
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.Form11.resources
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.form9.resources
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.Form4.resources
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.Form3.resources
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.Form2.resources
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.Resources.resources
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.exe
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.xml
+F:\Nova pasta (28)\cadastro\obj\Debug\cadastro.pdb
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\bin\Debug\cadastro.exe.config
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\bin\Debug\cadastro.exe
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\bin\Debug\cadastro.pdb
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\bin\Debug\cadastro.xml
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\Interop.ADODB.dll
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.Form8.resources
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.cadastro.resources
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.Form5.resources
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.Form6.resources
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.Form10.resources
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.Form11.resources
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.form9.resources
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.Form4.resources
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.Form3.resources
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.Form2.resources
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.Resources.resources
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.exe
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.xml
+C:\Users\Renan\Downloads\Nova pasta (30)\cadastro\obj\Debug\cadastro.pdb
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\bin\Debug\cadastro.exe.config
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\bin\Debug\cadastro.exe
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\bin\Debug\cadastro.pdb
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\bin\Debug\cadastro.xml
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\Interop.ADODB.dll
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.Form8.resources
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.cadastro.resources
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.Form5.resources
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.Form6.resources
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.Form10.resources
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.Form11.resources
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.form9.resources
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.Form4.resources
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.Form3.resources
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.Form2.resources
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.Resources.resources
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.exe
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.xml
+C:\Users\Renan\Documents\Nova pasta (25)\cadastro\obj\Debug\cadastro.pdb
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\bin\Debug\cadastro.exe.config
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\bin\Debug\cadastro.exe
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\bin\Debug\cadastro.pdb
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\bin\Debug\cadastro.xml
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\Interop.ADODB.dll
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form8.resources
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.cadastro.resources
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form5.resources
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form6.resources
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form10.resources
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form11.resources
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.form9.resources
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form4.resources
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form3.resources
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.Form2.resources
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.Resources.resources
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.exe
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.xml
+C:\Users\Renan\Documents\Nova pasta (26)\cadastro\obj\Debug\cadastro.pdb
+E:\Nova pasta (5)\cadastro\bin\Debug\cadastro.exe.config
+E:\Nova pasta (5)\cadastro\bin\Debug\cadastro.exe
+E:\Nova pasta (5)\cadastro\bin\Debug\cadastro.pdb
+E:\Nova pasta (5)\cadastro\bin\Debug\cadastro.xml
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+E:\Nova pasta (5)\cadastro\obj\Debug\Interop.ADODB.dll
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.Form8.resources
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.cadastro.resources
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.Form5.resources
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.Form6.resources
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.Form10.resources
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.Form11.resources
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.form9.resources
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.Form4.resources
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.Form3.resources
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.Form2.resources
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.Resources.resources
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.exe
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.xml
+E:\Nova pasta (5)\cadastro\obj\Debug\cadastro.pdb
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+E:\Nova pasta (6)\cadastro\obj\Debug\Interop.ADODB.dll
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.Form8.resources
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.cadastro.resources
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.Form5.resources
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.Form6.resources
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.Form10.resources
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.Form11.resources
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.form9.resources
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.Form4.resources
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.Form3.resources
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.Form2.resources
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.Resources.resources
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.exe
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.xml
+E:\Nova pasta (6)\cadastro\obj\Debug\cadastro.pdb
+E:\Nova pasta (6)\cadastro\bin\Debug\cadastro.exe.config
+E:\Nova pasta (6)\cadastro\bin\Debug\cadastro.exe
+E:\Nova pasta (6)\cadastro\bin\Debug\cadastro.pdb
+E:\Nova pasta (6)\cadastro\bin\Debug\cadastro.xml
+E:\Nova pasta (7)\cadastro\bin\Debug\cadastro.exe.config
+E:\Nova pasta (7)\cadastro\bin\Debug\cadastro.exe
+E:\Nova pasta (7)\cadastro\bin\Debug\cadastro.pdb
+E:\Nova pasta (7)\cadastro\bin\Debug\cadastro.xml
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+E:\Nova pasta (7)\cadastro\obj\Debug\Interop.ADODB.dll
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.Form8.resources
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.cadastro.resources
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.Form5.resources
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.Form6.resources
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.Form10.resources
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.Form11.resources
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.form9.resources
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.Form4.resources
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.Form3.resources
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.Form2.resources
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.Resources.resources
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.exe
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.xml
+E:\Nova pasta (7)\cadastro\obj\Debug\cadastro.pdb
+E:\Nova pasta (8)\cadastro\bin\Debug\cadastro.exe.config
+E:\Nova pasta (8)\cadastro\bin\Debug\cadastro.exe
+E:\Nova pasta (8)\cadastro\bin\Debug\cadastro.pdb
+E:\Nova pasta (8)\cadastro\bin\Debug\cadastro.xml
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+E:\Nova pasta (8)\cadastro\obj\Debug\Interop.ADODB.dll
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.Form8.resources
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.cadastro.resources
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.Form5.resources
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.Form6.resources
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.Form10.resources
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.Form11.resources
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.form9.resources
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.Form4.resources
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.Form3.resources
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.Form2.resources
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.Resources.resources
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.exe
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.xml
+E:\Nova pasta (8)\cadastro\obj\Debug\cadastro.pdb
+E:\Nova pasta (9)\cadastro\bin\Debug\cadastro.exe.config
+E:\Nova pasta (9)\cadastro\bin\Debug\cadastro.exe
+E:\Nova pasta (9)\cadastro\bin\Debug\cadastro.pdb
+E:\Nova pasta (9)\cadastro\bin\Debug\cadastro.xml
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+E:\Nova pasta (9)\cadastro\obj\Debug\Interop.ADODB.dll
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.Form8.resources
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.cadastro.resources
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.Form5.resources
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.Form6.resources
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.Form10.resources
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.Form11.resources
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.form9.resources
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.Form4.resources
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.Form3.resources
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.Form2.resources
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.Resources.resources
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.exe
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.xml
+E:\Nova pasta (9)\cadastro\obj\Debug\cadastro.pdb
+E:\Nova pasta (10)\cadastro\bin\Debug\cadastro.exe.config
+E:\Nova pasta (10)\cadastro\bin\Debug\cadastro.exe
+E:\Nova pasta (10)\cadastro\bin\Debug\cadastro.pdb
+E:\Nova pasta (10)\cadastro\bin\Debug\cadastro.xml
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+E:\Nova pasta (10)\cadastro\obj\Debug\Interop.ADODB.dll
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.Form8.resources
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.cadastro.resources
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.Form5.resources
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.Form6.resources
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.Form10.resources
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.Form11.resources
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.form9.resources
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.Form4.resources
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.Form3.resources
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.Form2.resources
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.Resources.resources
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.exe
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.xml
+E:\Nova pasta (10)\cadastro\obj\Debug\cadastro.pdb
+E:\ee\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+E:\ee\cadastro\obj\Debug\Interop.ADODB.dll
+E:\ee\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+E:\ee\cadastro\obj\Debug\cadastro.Form8.resources
+E:\ee\cadastro\obj\Debug\cadastro.cadastro.resources
+E:\ee\cadastro\obj\Debug\cadastro.Form5.resources
+E:\ee\cadastro\obj\Debug\cadastro.Form6.resources
+E:\ee\cadastro\obj\Debug\cadastro.Form11.resources
+E:\ee\cadastro\obj\Debug\cadastro.form9.resources
+E:\ee\cadastro\obj\Debug\cadastro.Form3.resources
+E:\ee\cadastro\obj\Debug\cadastro.frm_clientes.resources
+E:\ee\cadastro\obj\Debug\cadastro.Form2.resources
+E:\ee\cadastro\obj\Debug\cadastro.Resources.resources
+E:\ee\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+E:\ee\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+E:\ee\cadastro\obj\Debug\cadastro.exe
+E:\ee\cadastro\obj\Debug\cadastro.xml
+E:\ee\cadastro\obj\Debug\cadastro.pdb
+E:\ee\cadastro\bin\Debug\cadastro.exe.config
+E:\ee\cadastro\bin\Debug\cadastro.exe
+E:\ee\cadastro\bin\Debug\cadastro.pdb
+E:\ee\cadastro\bin\Debug\cadastro.xml
+E:\Nova pasta (13)\cadastro\bin\Debug\cadastro.exe.config
+E:\Nova pasta (13)\cadastro\bin\Debug\cadastro.exe
+E:\Nova pasta (13)\cadastro\bin\Debug\cadastro.pdb
+E:\Nova pasta (13)\cadastro\bin\Debug\cadastro.xml
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.vbprojAssemblyReference.cache
+E:\Nova pasta (13)\cadastro\obj\Debug\Interop.ADODB.dll
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.Form8.resources
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.cadastro.resources
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.Form5.resources
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.Form6.resources
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.Form11.resources
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.form9.resources
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.Form3.resources
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.Form2.resources
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.Resources.resources
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.cache
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.vbproj.CoreCompileInputs.cache
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.exe
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.xml
+E:\Nova pasta (13)\cadastro\obj\Debug\cadastro.pdb
+F:\Nova pasta (15)\cadastro\bin\Debug\cadastro.exe.config
+F:\Nova pasta (15)\cadastro\obj\Debug\Interop.ADODB.dll
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.vbproj.ResolveComReference.cache
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.exe
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.xml
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.pdb
+F:\Nova pasta (15)\cadastro\bin\Debug\cadastro.exe
+F:\Nova pasta (15)\cadastro\bin\Debug\cadastro.pdb
+F:\Nova pasta (15)\cadastro\bin\Debug\cadastro.xml
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.vbprojResolveAssemblyReference.cache
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.Form8.resources
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.cadastro.resources
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.Form5.resources
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.Form6.resources
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.Form11.resources
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.form9.resources
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.Form3.resources
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.frm_clientes.resources
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.Form2.resources
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.Resources.resources
+F:\Nova pasta (15)\cadastro\obj\Debug\cadastro.vbproj.GenerateResource.Cache
